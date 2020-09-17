@@ -52,7 +52,7 @@ See also the list of [contributors](#) when we get some.
 
 ## License
 
-This project is licensed under the I'm not sure what free license yet
+Licensed under the Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
 
 ## Acknowledgments
 
